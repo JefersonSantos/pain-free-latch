@@ -206,7 +206,7 @@ export default function SalesPage() {
             <div>
               <span className="pf-strike">$67</span> today only
             </div>
-            <div className="pf-amount">$37</div>
+            <div className="pf-amount">$29</div>
             <p>Pain-Free Latch Blueprint PDF + diagrams + 7-day latch reset + printable checklists.</p>
             <a className="pf-button" href={checkoutUrl}>
               Buy Now
